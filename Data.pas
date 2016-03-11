@@ -2,10 +2,9 @@
 
 Unit Data;
 
-INTERFACE
+Interface
 
 Type
-
     TLoading = record
       GraphBar: word;
       x, y, z, i, j, k, m: real;
